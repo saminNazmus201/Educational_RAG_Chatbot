@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+pymupdf
+sentence-transformers
+python-dotenv
+streamlit
+transformers
+torch
